@@ -7,3 +7,7 @@
  
  
  ## About Me
+
+- [x] Bed
+- [ ] Chair
+- [ ] Dining Table
